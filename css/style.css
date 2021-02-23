@@ -1,0 +1,28 @@
+.tales {
+  width: 100px;
+  height: 400px;
+}
+.navbar {
+  background-color: #ffc107;
+}
+a {
+  color: white;
+}
+.wrapperOne{
+
+}
+
+img{
+width: 500px;
+height: 350px;
+border-radius: 4px;
+}
+.container{
+  display: flex;
+  justify-content: center;
+  margin:15px;
+
+}
+.collapse{
+  display:flex;
+}
